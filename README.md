@@ -148,6 +148,25 @@ In this project, you will learn a controlled method to grant external users acce
 
 
 </div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Click: No owners selected (bottom of list, under Owners).</b></span>
+<br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/4Y8zT1A.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/rpOQbRO.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+</div>
   <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Click: No members selected (bottom of list, under Members).</b></span>
 <br/>
 
@@ -159,7 +178,7 @@ In this project, you will learn a controlled method to grant external users acce
 
 <table>
   <tr>
-    <td><img src="https://imgur.com/Ym82k8r.png" height="50%" width="50%" /></td>
+    <td><img src="https://imgur.com/Ym82k8r.png" height="100%" width="100%" /></td>
   </tr>
 </table>
 
