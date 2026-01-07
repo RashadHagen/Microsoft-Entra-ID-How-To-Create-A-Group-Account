@@ -148,7 +148,7 @@ In this project, you will learn a controlled method to grant external users acce
 
 
 </div>
-  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Click: No owners selected (bottom of list, under Owners).</b></span>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Click: No owners selected (bottom of list, under Owners). You can select owners, if you want.</b></span>
 <br/>
 
 <table>
@@ -167,7 +167,7 @@ In this project, you will learn a controlled method to grant external users acce
 
 
 </div>
-  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Click: No members selected (bottom of list, under Members).</b></span>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Click: No members selected (bottom of list, under Members). You can select members, if you want.</b></span>
 <br/>
 
 <table>
